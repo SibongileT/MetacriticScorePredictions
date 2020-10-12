@@ -1,8 +1,8 @@
-# Predicting Oscars Metacritic Ratings
+# Predicting Metacritic Scores of Early Oscars Contenders
 ----
-Objective: Based on past Metacritic scores determine if it is possible to predict the metacritic score for early oscars contenders.
+**Objective**: Based on past metacritic scores and other features determine if it is possible to predict the metacritic score for early oscars contenders.
 ______
-Features
+### Features
 * Director
 * Writer
 * Cast
@@ -14,7 +14,7 @@ Features
 * Genre
 * Award Nominations
 
-Target
+### Target
 * Metacritic Score
 
 ______
